@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+ font-family: "Raleway", serif;
+ color: rgb(0, 0, 0);
+ background-color: rgb(253, 243, 245, 0.986);
+ font-weight: 100;
+}
+
+header {
+
+    background-color: rgb(255, 242, 245);
+
+}
+
+a nav{
+ text-decoration: none;
+ color: black;
+ font-weight: bold;
+}
+
+main {
+    text-align: center;
+
+}
+
+#frase-de-efeito {
+    color: #8c3746;
+    font-weight: 600;
+    font-size: 1.1rem;
+    text-shadow: 0px 0px 8px #702c39;
+}
+
+h1 {
+    color:rgb(0, 0, 0);
+    font-size: 2rem;
+    
+}
